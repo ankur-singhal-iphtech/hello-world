@@ -1,2 +1,2 @@
-# hello-world
+# hello-world hello my git
 program about getting familiar with git
